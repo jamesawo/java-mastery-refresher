@@ -4,8 +4,8 @@ This directory aims to provide an introduction to the basic syntax of the Java p
 
 ## Sub-Directories
 
--   0.Variables
--   1.Data-Types
+-   [0.Variables](https://github.com/jamesawo/java-mastery-refresher/tree/main/0.Basic-Java-Syntax/0.Variables)
+-   [1.Data-Types](https://github.com/jamesawo/java-mastery-refresher/tree/main/0.Basic-Java-Syntax/1.Data-Types)
 
 ## Author
 
