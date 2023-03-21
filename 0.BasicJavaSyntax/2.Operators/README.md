@@ -75,8 +75,8 @@ In Java, bitwise operators perform operations on integer data at the individual 
 There are 7 operators to perform bit-level operations in Java.
 
 | Operator | Description          |
-| -------- | -------------------- | ---------- |
-| `        | `                    | Bitwise OR |
+| -------- | -------------------- |
+| \|       | Bitwise OR           |
 | `&`      | Bitwise AND          |
 | `^`      | Bitwise XOR          |
 | `~`      | Bitwise Complement   |
