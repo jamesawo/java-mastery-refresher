@@ -11,3 +11,10 @@ This directory aims to provide an introduction to the basic syntax of the Java p
 ## Author
 
 -   [Aworo James](https://github.com/jamesawo)
+
+---
+
+Resources
+
+-   [https://dev.java/learn/](https://dev.java/learn/)
+-   [https://www.w3schools.com/java/](https://www.w3schools.com/java/)
