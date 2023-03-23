@@ -7,10 +7,8 @@ This directory aims to provide an introduction to the basic syntax of the Java p
 -   [0.Variables](https://github.com/jamesawo/java-mastery-refresher/tree/main/0.Basic-Java-Syntax/0.Variables)
 -   [1.DataTypes](https://github.com/jamesawo/java-mastery-refresher/tree/main/0.Basic-Java-Syntax/1.Data-Types)
 -   [2.Operators](https://github.com/jamesawo/java-mastery-refresher/tree/main/0.BasicJavaSyntax/2.Operators)
-
-## Author
-
--   [Aworo James](https://github.com/jamesawo)
+-   [3.Expressions](https://github.com/jamesawo/java-mastery-refresher/tree/main/0.BasicJavaSyntax/3.Expressions)
+-   [4.ControlFlow](https://github.com/jamesawo/java-mastery-refresher/tree/main/0.BasicJavaSyntax/4.ControlFlow)
 
 ---
 
