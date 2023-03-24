@@ -9,6 +9,7 @@ This directory aims to provide an introduction to the basic syntax of the Java p
 -   [2.Operators](https://github.com/jamesawo/java-mastery-refresher/tree/main/0.BasicJavaSyntax/2.Operators)
 -   [3.Expressions](https://github.com/jamesawo/java-mastery-refresher/tree/main/0.BasicJavaSyntax/3.Expressions)
 -   [4.ControlFlow](https://github.com/jamesawo/java-mastery-refresher/tree/main/0.BasicJavaSyntax/4.ControlFlow)
+    [5.Arrays](https://github.com/jamesawo/java-mastery-refresher/tree/main/0.BasicJavaSyntax/5.Arrays)
 
 ---
 
