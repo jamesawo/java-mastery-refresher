@@ -41,3 +41,8 @@ int[] anArray = {
 ## Copying Arrays
 
 The System class has an arraycopy() method that you can use to efficiently copy data from one array into another:
+
+## Array Manipulations
+
+Arrays are a powerful and useful concept used in programming. Java SE provides methods to perform some of the most common manipulations related to arrays.
+For your convenience, Java SE provides several methods for performing array manipulations (common tasks, such as copying, sorting and searching arrays) in the java.util.Arrays class.
