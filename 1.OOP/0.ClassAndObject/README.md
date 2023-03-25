@@ -4,12 +4,13 @@ This section aims to help refresh on the concept of classes and object in Java p
 
 ## What is a class?
 
-In your applications, you will often find many individual objects of the some kind.Each object was built from a set of blueprints and therefore contains some components.
+In your applications, you will often find many individual objects of the some kind. Each object was built from a set of blueprints and therefore contains some components.
 A class is the blueprint from which individual objects are created.
 
 ## What is an Object?
 
-An object is an entity in the real world that can be distinctly identified. Objects have states and behaviors. In other words, they consist of methods and properties to make a particular type of data useful.
+An object is an entity in the real world that can be distinctly identified, Objects have states and behaviors.
+In other words, they consist of methods and properties to make a particular type of data useful.
 
 An object consists of:
 
