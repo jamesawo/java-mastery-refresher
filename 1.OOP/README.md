@@ -47,4 +47,4 @@ Object-Oriented Programming is an essential concept in Java programming (and oth
 
 Resources
 
--   https://dev.java/learn/
+-   [https://dev.java](https://dev.java/learn/oop/)
