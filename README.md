@@ -55,4 +55,4 @@ Thank you for your interest in the Java Mastery Refresher repository, and happy 
 
 ## License
 
-This repository is licensed under the MIT License. Read license [here](https://github.com/jamesawo/java-mastery-refresher/LICENSE)
+This repository is licensed under the MIT License. Read license [here](https://github.com/jamesawo/java-mastery-refresher/blob/main/LICENSE)
