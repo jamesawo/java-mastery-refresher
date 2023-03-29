@@ -49,7 +49,7 @@ This repository is a work in progress, and its content will continue to grow and
 
 Thank you for your interest in the Java Mastery Refresher repository, and happy coding!
 
-## Contributors
+## Author
 
 -   [Aworo James](https://github.com/jamesawo)
 
